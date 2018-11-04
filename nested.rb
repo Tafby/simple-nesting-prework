@@ -77,7 +77,6 @@ def adding_matz
      }
 
     progammer_hash.merge(:yukihiro_matsumoto => {:known_for => "Ruby", :languages => ["LISP, C"]})
-  end
 end
 
 def changing_alan
